@@ -1,6 +1,5 @@
-![](https://img.icons8.com/doodle/2x/hello.png)
 
-![welcome](https://raw.githubusercontent.com/shreyas4156/shreyas4156/main/wp3070161.png)
+![welcome](https://data.whicdn.com/images/125307930/original.gif)
 
 ## My name is Shreyas K S ([Resume](https://drive.google.com/file/d/1Dp-dEbAwPdShggMLx0-1sqoKmd1wWdYj/view))
 
