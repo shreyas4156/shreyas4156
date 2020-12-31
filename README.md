@@ -3,9 +3,9 @@
 
 ## My name is Shreyas K S ([Resume](https://drive.google.com/file/d/1Dp-dEbAwPdShggMLx0-1sqoKmd1wWdYj/view))
 
-- 🔭 I’m currently working on front end web using react
+- 🔭 I’m currently working on front end application using react
 - 🌱 I’m currently learning AI, Machine Learning, Flutter
-- 👯 I’m looking to collaborate on full stack(MERN) or app development projects
+- 👯 I’m looking to collaborate on full stack(MERN) or app development(React Native) projects
 - 💬 Ask me about React or Node.js
 - 📫 You can reach me on:  
 
