@@ -1,4 +1,6 @@
-![hello](https://img.icons8.com/doodle/2x/hello.png)
+![](https://i.gifer.com/fetch/w300-preview/c7/c7539a20e2a445a70995408777842c4c.gif)
+
+![welcome](https://raw.githubusercontent.com/shreyas4156/shreyas4156/main/wp3070161.png)
 
 ## My name is Shreyas K S ([Resume](https://drive.google.com/file/d/1Dp-dEbAwPdShggMLx0-1sqoKmd1wWdYj/view))
 
@@ -6,7 +8,7 @@
 - 🌱 I’m currently learning AI, Machine Learning, Flutter
 - 👯 I’m looking to collaborate on full stack(MERN) or app development projects
 - 💬 Ask me about React or Node.js
-- 📫 How to reach me:  
+- 📫 You can reach me on:  
 
 [1]: https://www.linkedin.com/in/shreyas4156/
 [2]: https://www.instagram.com/shreyas_kashyap_
