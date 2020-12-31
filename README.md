@@ -1,16 +1,16 @@
 ### Hi there 👋
+## My name is Shreyas K S ([Resume](https://drive.google.com/file/d/1Dp-dEbAwPdShggMLx0-1sqoKmd1wWdYj/view))
 
-<!--
-**shreyas4156/shreyas4156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on front end web using react
+- 🌱 I’m currently learning AI, Machine Learning, Flutter
+- 👯 I’m looking to collaborate on full stack(MERN) or app development projects
+- 💬 Ask me about React or Node.js
+- 📫 How to reach me:  
 
-Here are some ideas to get you started:
+[1]: https://www.linkedin.com/in/shreyas4156/
+[2]: https://www.instagram.com/shreyas_kashyap_
+[3]: https://www.shreyas4156@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![linkedin](https://img.icons8.com/doodle/48/000000/linkedin-circled.png)][1]
+  [![instagram](https://img.icons8.com/doodle/48/instagram-new.png)][2]
+  [![gmail](https://img.icons8.com/doodle/1x/gmail.png)][3]
