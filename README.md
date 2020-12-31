@@ -1,4 +1,4 @@
-![](https://i.gifer.com/fetch/w300-preview/c7/c7539a20e2a445a70995408777842c4c.gif)
+![](https://img.icons8.com/doodle/2x/hello.png)
 
 ![welcome](https://raw.githubusercontent.com/shreyas4156/shreyas4156/main/wp3070161.png)
 
