@@ -1,5 +1,5 @@
 
-![welcome](https://data.whicdn.com/images/125307930/original.gif)
+![welcome](https://raw.githubusercontent.com/shreyas4156/shreyas4156/main/welcome.gif)
 
 ## My name is Shreyas K S ([Resume](https://drive.google.com/file/d/1Dp-dEbAwPdShggMLx0-1sqoKmd1wWdYj/view))
 
