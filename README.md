@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on front end application using react
 - 🌱 I’m currently learning AI, Machine Learning, Flutter
 - 👯 I’m looking to collaborate on full stack(MERN) or app development(React Native) projects
-- 💬 Ask me about React or Node.js
+- 💬 Ask me about web development
 - 📫 You can reach me on:  
 
 [1]: https://www.linkedin.com/in/shreyas4156/
