@@ -19,7 +19,7 @@
   [![gmail](https://img.icons8.com/doodle/1x/gmail.png)][3]
   
   
-[![Stats](https://github-readme-stats.vercel.app/api?username=shreyas4156&theme=white-black)]()
+[![Stats](https://github-readme-stats.vercel.app/api?username=shreyas4156&theme=black-white)]()
 [![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas4156&theme=white-black)]()
 
 
