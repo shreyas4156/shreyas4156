@@ -19,6 +19,6 @@
   [![gmail](https://img.icons8.com/doodle/1x/gmail.png)][3]
   
   
-[![Stats](https://github-readme-stats.vercel.app/api?username=shreyas4156&theme=black-green)]()
+[![Stats](https://github-readme-stats.vercel.app/api?username=shreyas4156&theme=dark)]()
 
 
