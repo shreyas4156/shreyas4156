@@ -8,7 +8,6 @@
 - 👯 I’m looking to collaborate on full stack(MERN) or app development(React Native) projects
 - 💬 Ask me about web development
 - 📫 You can reach me on:  
-[![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyas4156)](https://github.com/shreyas4156)
 
 
 [1]: https://www.linkedin.com/in/shreyas4156/
@@ -18,3 +17,9 @@
   [![linkedin](https://img.icons8.com/doodle/48/000000/linkedin-circled.png)][1]
   [![instagram](https://img.icons8.com/doodle/48/instagram-new.png)][2]
   [![gmail](https://img.icons8.com/doodle/1x/gmail.png)][3]
+  
+  
+[![Stats](https://github-readme-stats.vercel.app/api?username=shreyas4156&theme=blue-green)]()
+[![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas4156&theme=blue-green)]()
+
+
