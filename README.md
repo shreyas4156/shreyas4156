@@ -3,8 +3,7 @@
 
 ## My name is Shreyas K S ([Resume](https://drive.google.com/file/d/1Dp-dEbAwPdShggMLx0-1sqoKmd1wWdYj/view))
 
-- 🔭 I’m currently working on java
-- 🌱 I’m currently .net
+- 🔭 I’m currently working on React
 - 👯 I’m looking to collaborate on full stack (java/node/angular/react)
 - 💬 Ask me about web development
 - 📫 You can reach me on:  
